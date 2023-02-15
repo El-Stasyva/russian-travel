@@ -1,3 +1,11 @@
 /*Подключение стороннего файла стилей */
 @import url(../vendor/normalize.css);
 
+/* Стили всей страницы */
+@import url(../blocks/page/page.css);
+
+/* Блок header (логотип и переключение языков) */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
