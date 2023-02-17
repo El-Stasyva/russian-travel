@@ -1,4 +1,7 @@
-/*Подключение стороннего файла стилей */
+/* Подключение шрифтов с их стилями */
+@import url(../fonts/fonts.css);
+
+/* Подключение стороннего файла стилей */
 @import url(../vendor/normalize.css);
 
 /* Стили всей страницы */
@@ -9,3 +12,46 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+
+/* Основное содержимое страницы */
+@import url(../blocks/content/content.css);
+
+/* Блок lead (заголовок "Путешествия по России") */
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
+
+/* Блок intro (раздел "Чего мы там не видели?") */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+
+/* Блок photo-gallery */
+@import url(../blocks/photo-gallery/photo-gallery.css);
+@import url(../blocks/photo-gallery/__item/photo-gallery__item.css);
+
+/* Блок places (Описание красивых мест в России, 5 глав) */
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__main-text/place__main-text.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+
+/* Блок cover ("До байкала "на собаках", на фоне ж/д депо) */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__background/cover__background.css);
+
+/* Блок footer (подвал сайта) */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
