@@ -1,7 +1,10 @@
 .lead {
   display: flex;
-  padding: 0 148px;
+  width: 77%;
+  margin: 0 auto;
+  margin-top: 28px;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
   text-align: center;
 }

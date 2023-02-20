@@ -1,3 +1,13 @@
 .cover {
-  
+  display: flex;
+  width: 92%;
+  height: 740px;
+  margin: 0 auto;
+  padding: 0;
+  margin-top: 12px;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
 }
