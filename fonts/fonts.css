@@ -2,15 +2,9 @@
   font-family: 'Inter';
   src: local('Inter-Regular'),
        local('Inter Regular'),
-<<<<<<< HEAD:fonts/fonts.css
        url(./Inter-Regular.woff2) format('woff2'),
        url(./Inter-Regular.woff) format('woff'),
        url(./Inter-Regular.otf) format('otf');
-=======
-       url('Inter-Regular.woff2') format('woff2'),
-       url('Inter-Regular.woff') format('woff'),
-       url('Inter-Regular.otf') format('otf');
->>>>>>> c37bd556d65dc84c098844fb71c54b0882df70f8:шрифты/fonts.css
   font-style:  normal;
   font-weight: 400;
 }
