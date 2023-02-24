@@ -30,9 +30,9 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 
-/* Блок photo-gallery */
-@import url(../blocks/photo-gallery/photo-gallery.css);
-@import url(../blocks/photo-gallery/__item/photo-gallery__item.css);
+/* Блок photo-grid */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 /* Блок places (Описание красивых мест в России, 5 глав) */
 @import url(../blocks/places/places.css);

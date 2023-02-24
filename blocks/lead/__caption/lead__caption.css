@@ -9,3 +9,9 @@
   line-height: 1.4;
   text-align: left;
 }
+
+@media screen and (max-width: 830px) {
+  .lead__caption {
+    padding-left: 4%;
+  }
+}

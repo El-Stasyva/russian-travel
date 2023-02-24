@@ -9,6 +9,13 @@
   text-decoration: none;
 }
 
-/* .header__lang-link:focus {
-  text-decoration: underline;
-} */
+.header__link:hover {
+  opacity: .8;
+}
+
+@media screen and (max-width: 618px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}
