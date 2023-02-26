@@ -17,10 +17,16 @@
   opacity: .8;
 }
 
-@media screen and (min-width: 470px) and (max-width: 767px) {
+@media screen and (min-width: 619px) and (max-width: 767px) {
+  .footer__link {
+    font-size: 19px;
+  }
+}
+
+@media screen and (min-width: 470px) and (max-width: 618px) {
   .footer__link {
     margin-bottom: 32px;
-    font-size: 20px;
+    font-size: 22px;
   }
 }
 

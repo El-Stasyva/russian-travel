@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   margin-bottom: 32px;
+  color: #ffffff;
   font-size: 72px;
   font-weight: 900;
   line-height: 1.05;
@@ -21,6 +22,7 @@
   .cover__title {
     width: 78%;
     max-width: 350px;
+    
     font-size: 46px;
   }
 }
@@ -29,7 +31,9 @@
   .cover__title {
     width: 78%;
     max-width: 250px;
+    margin-bottom: 16px;
     font-size: 32px;
     line-height: 1.09;
+    z-index: 2;
   }
 }
