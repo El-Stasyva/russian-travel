@@ -13,4 +13,4 @@
 Планы по доработке проекта:
 -> анимировать фотографии в галерее "photo__grid".
 
-Ссылка на проект: https://github.com/El-Stasyva/russian-travel/index.html
+Ссылка на проект: https://el-stasyva.github.io/russian-travel/
