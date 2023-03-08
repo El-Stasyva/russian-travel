@@ -10,8 +10,14 @@
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 1023px) {
   .lead__caption {
-    padding-left: 4%;
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 618px) {
+  .lead__caption {
+    padding-left: 16px;
   }
 }
