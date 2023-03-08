@@ -16,9 +16,10 @@
   }
 }
 
-@media screen and (max-width: 618px) {
+@media screen and (max-width: 767px) {
   .place__image {
     max-width: 100%;
     min-height: 320px;
+    margin: 0 auto;
   }
 }
