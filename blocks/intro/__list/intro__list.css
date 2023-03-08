@@ -7,3 +7,9 @@
   line-height: 1.5;
   list-style-type: none;
 }
+
+@media screen and (max-width: 618px) {
+  .intro__list {
+    margin-top: 34px;
+  }
+}

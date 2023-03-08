@@ -3,15 +3,9 @@
   align-self: end;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 618px) {
   .place__website {
-    width: 95%;
-    margin: 0 auto;
-  }
-}
-
-@media screen and (max-width: 469px) {
-  .place__website {
-    width: 91%;
+    max-width: 90%;
+    margin-left: 16px;
   }
 }
