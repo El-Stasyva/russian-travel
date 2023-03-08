@@ -15,6 +15,8 @@
 
 .header__lang-link:hover {
   opacity: .8;
+  transition-timing-function: ease-in;
+  transition-delay: 4s;
 }
 
 @media screen and (max-width: 618px) {

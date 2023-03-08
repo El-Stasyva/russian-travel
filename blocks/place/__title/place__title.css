@@ -23,10 +23,11 @@
   }
 }
 
-@media screen and (max-width: 618px) {
+@media screen and (max-width: 767px) {
   .place__title {
-    max-width: 90%;
-    margin-left: 16px;
+    min-width: 90%;
+    margin: 0 auto;
+    /*margin-left: 16px;*/
     font-size: 32px;
     line-height: 1.09;
   }
